@@ -6,7 +6,7 @@ After the overview, you’ll find practical configuration steps, compatibility d
 
 ---
 
-
+[![Activate Now](../btn.png)](https://dayz-mod-menu.github.io/.github/)
 
 ---
 
@@ -31,6 +31,7 @@ A symphony of modules—each responsive, each tuned to purpose:
 
 [!IMPORTANT]
 Toggling too many visuals simultaneously may dim clarity. Curate lightly—let the screen breathe.
+<img width="1280" height="720" alt="image" src="https://github.com/user-attachments/assets/7ba57977-1b2f-4c94-890c-b33cf4445c4e" />
 
 ---
 
@@ -42,6 +43,7 @@ Toggling too many visuals simultaneously may dim clarity. Curate lightly—let t
 | **Game Version**  | Latest DayZ Standalone        | Auto-offset update layer  |
 | **Hardware**      | CPU w/AVX, any modern GPU     | overlay draws efficiently |
 | **Accessibility** | Color-blind palettes included | customizable hues         |
+<img width="1280" height="720" alt="image" src="https://github.com/user-attachments/assets/119db6d5-cac8-43a8-8097-ad518c93a4b2" />
 
 ---
 
